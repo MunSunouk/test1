@@ -23,7 +23,7 @@ from setuptools import setup, find_packages
 setup(
     
     name="ccdxt",
-    version="0.12",
+    version="0.2",
     
     # description=package['description'],
     # long_description=long_description,
@@ -34,7 +34,7 @@ setup(
     # author_email=package['author']['email'],
     # license=package['license'],
     # packages=["ccdxt","ccdxt.base"],
-    packages=find_packages(where='ccdxt'),
+    packages=find_packages(),
     # install_requires=['web3','eth-tester'],
     
     classifiers=[

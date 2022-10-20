@@ -23,7 +23,7 @@ from setuptools import setup
 setup(
     
     name="ccdxt",
-    version="0.1",
+    version="0.11",
     
     # description=package['description'],
     # long_description=long_description,

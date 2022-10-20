@@ -33,7 +33,7 @@ setup(
     # author=package['author']['name'],
     # author_email=package['author']['email'],
     # license=package['license'],
-    packages=["ccdxt"],
+    packages=["ccdxt","ccdxt.base"],
     # install_requires=['web3','eth-tester'],
     
     classifiers=[
